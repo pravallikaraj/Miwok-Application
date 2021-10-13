@@ -20,5 +20,5 @@ This sample uses the Gradle build system. To build this project, use the
 
 ## Miwok App Demo
 
-![test image size]<img src="miwok_app_demo.gif" width="350" height="500">
+![test image size]<img src="miwok_app_demo.gif" width="300" height="550">
 
